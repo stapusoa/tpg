@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stapusoa/tpg.git/static/css/main.e5ba6c51.css",
+    "main.js": "/stapusoa/tpg.git/static/js/main.55ff45b6.js",
+    "static/js/787.7be9fa15.chunk.js": "/stapusoa/tpg.git/static/js/787.7be9fa15.chunk.js",
+    "index.html": "/stapusoa/tpg.git/index.html",
+    "main.e5ba6c51.css.map": "/stapusoa/tpg.git/static/css/main.e5ba6c51.css.map",
+    "main.55ff45b6.js.map": "/stapusoa/tpg.git/static/js/main.55ff45b6.js.map",
+    "787.7be9fa15.chunk.js.map": "/stapusoa/tpg.git/static/js/787.7be9fa15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ba6c51.css",
+    "static/js/main.55ff45b6.js"
+  ]
+}
